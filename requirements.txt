@@ -1,0 +1,7 @@
+speechbrain
+transformers<5.0.0,>=4.3.0
+accelerate
+datasets
+nemo_toolkit[asr]
+huggingface_hub[cli]
+qwen-omni-utils
